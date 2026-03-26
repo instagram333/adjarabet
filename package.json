@@ -1,0 +1,8 @@
+{
+  "name": "adjarabet-form-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
